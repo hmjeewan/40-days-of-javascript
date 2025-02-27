@@ -17,4 +17,4 @@
 
 ## **👩‍💻 🧑‍💻 Assignment Tasks**
 
-### ✅ Tasks are in the task.md
+Please find the task assignments in the [Task File](./task.md).
